@@ -1,0 +1,2659 @@
+.travelpage{
+  margin: 0 10.6px 1.3px 0;
+  display: flex;
+  overflow-wrap: break-word;
+  font-family: 'volkhov';
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 0.1px;
+  line-height: 1;
+  color: #222222;
+}
+.travelpage .vector{
+  margin-top: 3.4px;
+  width: 19px;
+  height: 21.8px;
+}
+.travelpage .logo{
+  margin: 14.9px 0 17.2px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .home{
+  margin-right: 12px;
+  width: fit-content;
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  columns: #222222;
+}
+.travelpage .about{
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #222222;
+}
+.travelpage .destination{
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #222222;
+}
+.travelpage .tour{
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #222222;
+}
+.travelpage .blog{
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #222222;
+}
+.travelpage .menu{
+  margin: 13.1px 0 13.2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 386px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .login1{
+overflow-wrap: break-word;
+font-family: 'poppins';
+font-weight: 600;
+font-size: 16px;
+color: #FD8D3A;  
+}
+.travelpage .login{
+  margin: 14.9px 56px 18.5px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.travelpage .signup1{
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.travelpage .signup{
+  box-shadow: 0px 8px 16px 0px rgba(250,116,54,0.24);
+  border-radius: 5px;
+  background: #FA7436;
+  position: relative;
+  display: flex;
+  padding: 13px 0 13px 1px;
+  width: 160px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .container2{
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .nav{
+  background: #FEFCFB;
+  position: relative;
+  margin: 0 156px 0px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 32.2px 0;
+  width: 1170;
+  box-sizing: border-box;
+}
+
+.get-started-your-exciting-journey-with-us-sub5{
+ font-family: 'volkhov';
+ font-weight: 700;
+ font-size: 64px;
+ line-height: 1.333;
+ }
+ .get-started-your-exciting-journey-with-us-sub4{
+  font-family: 'volkhov';
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 1.333;
+  color:var(--primary-o, #FA7436);
+ }
+.get-started-your-exciting-journey-with-us{
+  font-family: 'volkhov';
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 1.333;
+}
+.travelpage .get-started-your-exciting-journey-with-us{
+  margin-bottom: 60px;
+  overflow-wrap: break-word;
+  font-family: 'volkhov';
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 1.094;
+  color: #222222;
+}
+.travelpage .discovernow{
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.778;
+  color: #FA7436;
+}
+.travelpage .discover-btn{
+  border-radius: 5px;
+  border: 1px solid var(--primary-o, #FA7436);
+  background: #FFFFFF;
+  display: flex;
+  align-self: flex-start;
+  padding: 13px 0.2px 13.3px 0;
+  width: 178px;
+  box-sizing: border-box;
+}
+.travelpage .container{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .ateam{
+  position: absolute;
+  left: 0px;
+  bottom: 125.2px;
+  overflow-wrap: break-word;
+  font-family: var(--paragraph-20-px-font-family,'poppins');
+  font-weight: var(--paragraph-20-px-font-weight, 400);
+  font-size: var(--paragraph-20-px-font-size,20px);
+  line-height: var(--paragraph-20-px-line-height,2);
+  color: var(--paragraph, #666666);
+}
+.travelpage .content{
+  border-radius: 5px;
+  position: relative;
+  margin: 96.5px 36.2px 3px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.travelpage .vector1{
+  width: 785px;
+  height: 192px;
+}
+.travelpage .element{
+  opacity: 0.3;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  display: flex;
+  padding: 0 0px;
+  width: 785px;
+  height: 192px;
+  box-sizing: border-box;
+}
+.travelpage .e4{
+  position: absolute;
+  left: 0%;
+  top: 30.1px;
+  translate: -50% 0;
+  width: 500px;
+  height: 502.5px;
+}
+.travelpage .thumbup1{
+  box-shadow: 0px 4px 4px 0pxr rgba(0,0,0,0.25);
+  background: url('../puplic/tourist-with-thumb-up__1_-removebg\ 1.jpg'); 
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 450px;
+  height: 532.6px;
+}
+.travelpage .rectangle{
+  box-shadow: 8px 8px 40px 0px rgba(0,0,0,0.05);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 173px;
+  height: 74.4px;
+}
+.travelpage .google{
+  border-radius: 10px;
+  background: url('../puplic/google-maps\ 1.jpg') 50% / cover no-repeat;
+  position: relative;
+  margin: 13.1px 10px 28.9px 0;
+  width: 32px;
+  height: 32.2px;
+}
+.travelpage .explore{
+  margin-bottom: 2.1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #444444;
+}
+.travelpage .everycornar{
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.333;
+  color: #666666;
+}
+.travelpage .container4{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .card2{
+  border-radius: 10px;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 0 0 15px;
+  width: 173px;
+  box-sizing: border-box;
+}
+.travelpage .group1{
+  position: relative;
+  display: flex;
+  padding: 211px 0 239.4px 0;
+  box-sizing: border-box;
+}
+.travelpage .trophy{
+  background: url('../puplic/trophy-removebg-preview\ 1.jpg') 50% / cover no-repeat;
+  margin: 8px 10px 7.8px 0;
+  width: 32px;
+  height: 32.2px;
+}
+.travelpage .best{
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #444444;
+}
+.travelpage .card1{
+  box-shadow: -8px 8px 40px 0px rgba(0,0,0,0.05);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 73px;
+  top: 142.7px;
+  display: flex;
+  flex-direction: row;
+  padding: 9px 3.9px 9.3px 16px;
+  box-sizing: border-box;
+}
+.travelpage .start1{
+  border-radius: 10px;
+  background: url('../puplic/star\ 1.jpg') 50% / cover no-repeat;
+  margin: 6px 10.2px 5.9px 0;
+  width: 32px;
+  height: 32.2px;
+}
+.travelpage .k{
+  margin: 0 0.1px 2.1px 0.1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: #444444;
+}
+.travelpage .customer{
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: #666666;
+}
+.travelpage .group2{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .card3{
+  box-shadow: -8px 8px 40px 0px rgba(0,0,0,0.05);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 11px;
+  bottom: 126.6px;
+  display: flex;
+  flex-direction: row;
+  padding:  12.1px 18.2px 12.1px 19px;
+  box-sizing: border-box;
+}
+.travelpage .img {
+  position: relative;
+  display: flex;
+  padding: 55.3px 27px 0 0;
+  width: 785px;
+  box-sizing: border-box;
+}
+.travelpage .container3 {
+  margin-bottom: 64.3px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .location{
+  margin-right: 5.5px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--primary-b, #222222);
+}
+.travelpage .v{
+  margin: 10.9px 0 7.4px 0;
+  width: 10px;
+  height: 5.7px;
+}
+.travelpage .group3{
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .where{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--paragraph, #666666);
+}
+.travelpage .group31{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .date{
+  margin-right: 6px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--primary-b, #222222);
+}
+.travelpage .v1{
+  margin: 10.9px 0 7.4px 0;
+  width: 10px;
+  height: 5.7px;
+}
+.travelpage .group314{
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .when{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--paragraph, #666666);
+}
+.travelpage .group34{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .guest{
+  margin-right: 5.9px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  color: var(--primary-b, #222222);
+}
+.travelpage .v2{
+  margin: 10.9px 0 7.4px 0;
+  width: 10px;
+  height: 5.7px;
+}
+.travelpage .group32{
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .numberof{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--paragraph, #666666);
+}
+.travelpage .group35{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .content1{
+  margin: 4.6px 0 7.3px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 528px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .explorenow{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.778;
+  color: #FFFFFF;
+}
+.travelpage .explore-btn{
+  box-shadow: 0px 8px 16px 0px rgba(250, 116, 54, 0.16);
+  border-radius: 5px;
+  background: var(--primary-o, #FA7436);
+  display: flex;
+  padding: 14px 0.1px 22.9px 0;
+  width: 165px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .searchbar{
+  box-shadow: 0px 2px 80px 2px rgba(0, 0, 0, 0.06);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 155px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 36.7px 24px;
+  width: 841px;
+  box-sizing: border-box;
+}
+.travelpage .herosection{
+  background: #FEFCFB;
+  position: relative;
+  margin-bottom: 697px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 120.6px;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.things-you-need-to-do-sub3{
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.333;
+}
+.thingsyouneed{
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.333;
+  /* color: var(--primary-o, #FA7436); */
+}
+.travelpage .things-you-need-to-do-sub3{
+  margin-bottom: 14px;
+  overflow-wrap: break-word;
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.125;
+  color:  #222222;
+}
+.travelpage .we-ensure{
+  margin: 0 23px 0 22.8px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.778;
+  color: #666666;
+}
+.travelpage .thingcontent1{
+  margin-right: 66.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.travelpage .ele{
+  margin-bottom: 11.3px;
+  width: 179.9px;
+  height: 130.7px;
+}
+.travelpage .thingscontainer{
+  margin: 0 0 64px 246.9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .v3{
+  position: absolute;
+  top: 0.5px;
+  right: 0px;
+  width: 367px;
+  height: 274.5px;
+}
+.travelpage .grp5{
+  position: relative;
+  margin: 0 228px 48px 0;
+  width: 48px;
+  height: 48px;
+}
+.travelpage .sup{
+  position: relative;
+  margin: 0 183.8px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.417;
+  color: #222222;
+}
+.travelpage .completes{
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  color:#666666;
+}
+.travelpage .signup2{
+  box-shadow: 14px 24px 72px 0px rgba(102, 102, 102, 0.1);
+  border-radius: 8px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 370px;
+}
+.travelpage .v4{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 365.5px;
+  height: 273.5px;
+}
+.travelpage .worth{
+  position: relative;
+  margin: 0 225px 48px 0;
+  width: 46.6px;
+  height: 48px;
+}
+.travelpage .grp{
+  position: relative;
+  margin: 0 225px 48px 0;
+  width: 46.6px;
+  height: 48px;
+}
+.travelpage .worthofmoney{
+  position: relative;
+  margin: 0 79.7px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.417;
+  color:#222222;
+}
+.travelpage .after{
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size:  16px;
+  line-height:  1.625;
+  color:  #666666;
+}
+.travelpage .money{
+  border-radius: 8px;
+  border: 2px solid rgba(102, 102, 102, 0.08);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 370px;
+}
+.travelpage .v5{
+  position: absolute;
+  top: 5px;
+  right: 4px;
+  width: 361.5px;
+  height: 269px;
+}
+.travelpage .grp1{
+  position: relative;
+  margin: 0 224.6px 48px 0;
+  width: 41.1px;
+  height: 48px;
+}
+.travelpage .exciting{
+  position: relative;
+  margin: 0 83.6px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.417;
+  color: #222222;
+}
+.travelpage .start{
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  color:  #666666;
+}
+.travelpage .travel{
+  border-radius: 8px;
+  border: 2px solid rgba(102, 102, 102, 0.08);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 370px;
+}
+.travelpage .container5{
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  width: 1170px;
+  box-sizing: border-box;
+}
+.travelpage .things{
+  background: #F7F8FC;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 120px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.travelpage .exclusive-deals-discounts{
+  margin-bottom: 14px;
+  overflow-wrap: break-word;
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.125;
+  color: #222222;
+}
+.exclusive-deals-discounts{
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.333;
+  color: var(--primary-o, #FA7436);
+}
+.travelpage .discover-our-fantastic-early-booking-discounts-start-planning-your-journey{
+  margin-left: 27.7px;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.778;
+  color: #666666;
+}
+.travelpage .content2{
+  margin: 0 26.7px 64px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .img1{
+  border-radius: 8px;
+  background: url('../puplic/Image\ \(5\).jpg') 50% / cover no-repeat;
+  margin-bottom: 32px;
+  width: 270px;
+  height: 290px;
+}
+.travelpage .madrid{
+  overflow-wrap: break-word;
+  font-family: 'poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.083;
+  color: #222222;
+}
+.travelpage .content3{
+  display: flex;
+  box-sizing: border-box;
+}
+.travelpage .star1{
+  border-radius: 8px;
+  background: url('../puplic/star\ 1.jpg') 50% / cover no-repeat;
+  margin: 4px 8.2px 4px 0;
+  width: 16px;
+  height: 16px;
+}
+.travelpage .contai{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666666;
+}
+.travelpage .content4{
+  border-radius: 8px;
+  margin: 1px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .upper{
+  border-radius: 8px;
+  margin: 0 16.2px 18px 16.2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 238px;
+  box-sizing: border-box;
+}
+.travelpage .vec{
+  margin: 2px 8.4px 2px 0;
+  width: 12.6px;
+  height: 16px;
+}
+.travelpage .spain{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #666666;
+}
+.travelpage .content5{
+  margin: 1px 0 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .contai1{
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color:  #999999;
+}
+.travelpage .line5{
+  background: #999999;
+  position: absolute;
+  right: 0px;
+  bottom: 11px;
+  width: 39px;
+  height: 0px;
+}
+.travelpage .group41{
+  position: relative;
+  margin: 2px 16px 2px 0;
+  display: flex;
+  padding-right: 0.5px;
+  box-sizing: border-box;
+}
+.travelpage .containe1{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FA7436;
+}
+.travelpage .gropu40{
+  border-radius: 8px;
+  background: #FFE7DB;
+  position: relative;
+  display: flex;
+  padding: 2px 5.3px;
+  box-sizing: border-box;
+}
+.travelpage .content6{
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .bottom{
+  margin: 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 238px;
+  box-sizing: border-box;
+}
+.travelpage .card1{
+  border-radius: 8px;
+  border: 2px solid rgba(102, 102, 102, 0.08);
+  background: #FEFCFB;
+  position: relative;
+  margin-right: 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 32px;
+  width: 270px;
+  box-sizing: border-box;
+}
+.travelpage .im1{
+  border-radius: 10px 10px 0 0;
+  background: url('../puplic/Image\ \(6\).jpg');
+  margin-bottom: 32px;
+  width: 270px;
+  height: 290px;
+}
+.travelpage .firenze{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.083;
+  color: #222222;
+}
+.travelpage .content7{
+  display: flex;
+  box-sizing: border-box;
+}
+.travelpage .star11{
+  border-radius: 10px;
+  background: url('../puplic/star\ 1.jpg') 50% / cover no-repeat;
+  margin: 2px 8.3px 2px 0;
+  width: 16px;
+  height: 16px;
+}
+.travelpage .containe3{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #666666;
+}
+.travelpage .content8{
+  border-radius: 10px;
+  margin: 3px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .upper1{
+  border-radius: 10px;
+  margin: 0 16.3px 18px 16.3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 238px;
+  box-sizing: border-box;
+}
+.travelpage .group37{
+  margin: 2px 8.2px 2px 0;
+  width: 12.6px;
+  height: 16px;
+}
+.travelpage .italy{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #666666;
+}
+.travelpage .content9{
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .containe4{
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666666;
+}
+.travelpage .line6{
+  background: #666666;
+  position: absolute;
+  right: 0px;
+  bottom: 11px;
+  width: 39px;
+  height: 0px;
+}
+.travelpage .group11{
+  position: relative;
+  margin: 2px 16px 2px 0;
+  display: flex;
+  padding-right: 0.5px;
+  box-sizing: border-box;
+}
+.travelpage .containe5{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #FA7436;
+}
+.travelpage .group01{
+  border-radius: 4px;
+  background: #FFE7DB;
+  position: relative;
+  display: flex;
+  padding: 2px 6.1px;
+  box-sizing: border-box;
+}
+.travelpage .content10{
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .footer{
+  margin: 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 238px;
+  box-sizing: border-box;
+}
+.travelpage .containe2{
+  box-shadow: 0px 16px 80px 0px rgba(254, 147, 94, 0.2);
+  border-radius: 10px;
+  background: #FEFCFB;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 32px;
+  width: 270px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .book-now{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.778;
+  color: #FFFFFF;
+}
+.travelpage .book-btn{
+  border-radius: 6px;
+  background:  #FA7436;
+  display: flex;
+  padding: 7px 0 7px 0.3px;
+  width: 132px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .hover-effect{
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  display: flex;
+  padding-left: 4px;
+  width: 270px;
+  height: 290px;
+  box-sizing: border-box;
+}
+.travelpage .card2{
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  padding-left: 2px;
+  width: 272px;
+  box-sizing: border-box;
+}
+.travelpage .im2{
+  border-radius: 8px;
+  background: url('../puplic/Image\ \(7\).jpg') 50% / cover no-repeat;
+  margin-bottom: 32px;
+  width: 270px;
+  height: 290px;
+}
+.travelpage .paris{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.083;
+  color:  #222222;
+}
+.travelpage .content11{
+  display: flex;
+  box-sizing: border-box;
+}
+.travelpage .star12{
+  border-radius: 8px;
+  background: url('../puplic/star\ 1.jpg') 50% / cover no-repeat;
+  margin: 2px 8.3px 2px 0;
+  width: 16px;
+  height: 16px;
+}
+.travelpage .containe6{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color: #666666;
+}
+.travelpage .contrent{
+  border-radius: 8px;
+  margin: 3px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .upper2{
+  border-radius: 8px;
+  margin: 0 16.3px 18px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 238px;
+  box-sizing: border-box;
+}
+.travelpage .vec24{
+  margin: 2px 8.1px 2px 0;
+  width: 12.6px;
+  height: 16px;
+}
+.travelpage .france{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color:  #666666;
+}
+.travelpage .content12{
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .containe7{
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color:  #666666;
+}
+.travelpage .line7{
+  background: #666666;
+  position: absolute;
+  right: 0px;
+  bottom: 11px;
+  width: 39px;
+  height: 0px;
+}
+.travelpage .group12{
+  position: relative;
+  margin: 2px 16px 2px 0;
+  display: flex;
+  padding-right: 0px;
+  box-sizing: border-box;
+}
+.travelpage .containe8{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color:  #FA7436;
+}
+.travelpage .group02{
+  border-radius: 8px;
+  background: #FFE7DB;
+  position: relative;
+  display: flex;
+  padding: 2px 5.1px 2px 6.1px;
+  box-sizing: border-box;
+}
+.travelpage .content13{
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .footer1{
+  margin: 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 238px;
+  box-sizing: border-box;
+}
+.travelpage .card-3{
+  border-radius: 8px;
+  border: 2px solid rgba(102, 102, 102, 0.08);
+  background: #FEFCFB;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 32px;
+  width: 270px;
+  box-sizing: border-box;
+}
+.travelpage .im3{
+  border-radius: 8px;
+  background: url('../puplic/Image\ \(8\).jpg') 50% / cover no-repeat;
+  margin-bottom: 32px;
+  width: 270px;
+  height: 290px;
+}
+.travelpage .london{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.083;
+  color:#222222;
+}
+.travelpage .content14{
+  display: flex;
+  box-sizing: border-box;
+}
+.travelpage .star13{
+  border-radius: 8px;
+  background: url('../puplic/star\ 1.jpg') 50% / cover no-repeat;
+  margin: 2px 8.2px 2px 0;
+  width: 16px;
+  height: 16px;
+} 
+.travelpage .containe9{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color:#666666;
+}
+.travelpage .content15{
+  border-radius: 8px;
+  margin: 3px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .upper3{
+  border-radius: 8px;
+  margin: 0 16.2px 18px 16.1px;
+  display: flex;
+  flex-direction: row; 
+  justify-content: space-between;
+  width: 238px;
+  box-sizing: border-box;
+}
+.travelpage .vec25{
+  margin: 2px 8.3px 2px 0;
+  width: 12.6px;
+  height: 16px;
+}
+.travelpage .uk{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  color:#666666;
+}
+.travelpage .content16{
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .containe10{
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666666;
+}
+.travelpage .line53{
+  background: #666666;
+  position: absolute;
+  right: 0px;
+  bottom: 11px;
+  width: 39px;
+  height: 0px;
+}
+.travelpage .group13{
+  position: relative;
+  margin: 2px 16px 2px 0;
+  display: flex;
+  padding-right: 0.5px;
+  box-sizing: border-box;
+}
+.travelpage .containe11{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color:  #FA7436;
+}
+.travelpage .group03{
+  border-radius: 8px;
+  background: #FFE7DB;
+  position: relative;
+  display: flex;
+  padding: 2px 5.3px;
+  box-sizing: border-box;
+}
+.travelpage .content17{
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .footer2{
+  margin: 0 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 238px;
+  box-sizing: border-box;
+}
+.travelpage .card4{
+  border-radius: 8px;
+  border: 2px solid rgba(102, 102, 102, 0.08);
+  background: #FEFCFB;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 32px;
+  width: 270px;
+  box-sizing: border-box;
+}
+.travelpage .card{
+  margin-bottom: 48px;
+  display: flex;
+  flex-direction: row;
+  width: 1170px;
+  box-sizing: border-box;
+}
+.travelpage .arrow-31{
+  background: rgba(153, 153, 153, 0.5);
+  width: 16px;
+  height: 0px;
+}
+.travelpage .btn-1{
+  border-radius: 20px;
+  background: #FEFCFB;
+  position: relative;
+  margin-right: 32px;
+  display: flex;
+  padding: 20px 12px 18px 12px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.travelpage .arrow-3{
+  background:  #FFFFFF;
+  width: 16px;
+  height: 0px;
+}
+.travelpage .btn-2{
+  border-radius: 20px;
+  background: #FA7436;
+  position: relative;
+  display: flex;
+  padding: 20px 12px 18px 12px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.travelpage .slider{
+  margin-right: 8px;
+  display: flex;
+  flex-direction: row;
+  width: 104px;
+  box-sizing: border-box;
+}
+.travelpage .deals{
+  background: #FEFCFB;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 120px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.travelpage .ele1{
+  position: absolute;
+  top: 120px;
+  right: 563.5px;
+  width: 105.5px;
+  height: 81px;
+}
+.travelpage .best{
+  margin: 0 45.1px 14px 43.4px;
+  overflow-wrap: break-word;
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.125;
+  color: var(--primary-b, #222222);
+}
+.best{
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.333;
+  color: var(--primary-o, #FA7436);
+}
+.travelpage .plan{
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: var(--paragraph-18-px-font-family, 'Poppins');
+  font-weight: var(--paragraph-18-px-font-weight, 400);
+  font-size: var(--paragraph-18-px-font-size, 18px);
+  line-height: var(--paragraph-18-px-line-height, 1.778);
+  color: #666666;
+}
+.travelpage .content18{
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .arrow-33{
+  background: rgba(153, 153, 153, 0.5);
+  width: 16px;
+  height: 0px;
+}
+.travelpage .btn3{
+  border-radius: 20px;
+  background: #FA7436;
+  position: relative;
+  margin-right: 32px;
+  display: flex;
+  padding: 20px 12px 18px 12px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.travelpage .arrow-32{
+  background: var(--primary-o, #FFFFFF);
+  width: 16px;
+  height: 0px;
+}
+.travelpage .btn4{
+  border-radius: 20px;
+  background: #FA7436;
+  position: relative;
+  margin-right: 32px;
+  display: flex;
+  padding: 20px 12px 18px 12px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.travelpage .slider-btn-1{
+  position: relative;
+  margin: 0 0 24px 1058px;
+  display: flex;
+  flex-direction: row;
+  width: 112px;
+  box-sizing: border-box;
+}
+.travelpage .img6{
+  box-shadow: 0px 100px 80px 0px rgba(0, 0, 0, 0.02), 0px 64.8px 46.9px 0px rgba(0, 0, 0, 0.015), 0px 38.5px 25.5px 0px rgba(0, 0, 0, 0.012), 0px 20px 13px 0px rgba(0, 0, 0, 0.01), 0px 8.1px 6.5px 0px rgba(0, 0, 0, 0.008), 0px 1.9px 3.1px 0px rgba(0, 0, 0, 0.005);
+  border-radius: 16px;
+  background: url('../puplic/Image\ \(9\).jpg') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 369px;
+  height: 327px;
+}
+.travelpage .rome-italty{
+  margin-right: 16px;
+  width: 164px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #222222;
+}
+.travelpage .k1{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.333;
+  color: var(--primary-o, #FA7436);
+}
+.travelpage .img4{
+  box-shadow: 0px 100px 80px 0px rgba(0, 0, 0, 0.02), 0px 64.8px 46.9px 0px rgba(0, 0, 0, 0.015), 0px 38.5px 25.5px 0px rgba(0, 0, 0, 0.012), 0px 20px 13px 0px rgba(0, 0, 0, 0.01), 0px 8.1px 6.5px 0px rgba(0, 0, 0, 0.008), 0px 1.9px 3.1px 0px rgba(0, 0, 0, 0.005);
+  border-radius: 16px;
+  background: url('../puplic/Image\ \(9\).jpg') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 369px;
+  height: 327px;
+}
+.travelpage .upper4{
+  margin: 0 24.1px 16px 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 319px;
+  box-sizing: border-box;
+}
+.travelpage .vec28{
+  width: 18.8px;
+  height: 16px;
+}
+.travelpage .navi{
+  margin: 3.9px 14.5px 4.1px 0;
+  display: flex;
+  width: 18.8px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.travelpage .days{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--paragraph, #666666);
+}
+.travelpage .content19{
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .star14{
+  border-radius: 10px;
+  background: url('../puplic/star\ 1.jpg') 50% / cover no-repeat;
+  margin: 4px 8.2px 4px 0;
+  width: 16px;
+  height: 16px;
+}
+.travelpage .containe12{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--paragraph, #666666);
+}
+.travelpage .content20{
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .footer3{
+  margin: 0 24.2px 0 27.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 317.3px;
+  box-sizing: border-box;
+}
+.travelpage .card5{
+  border-radius: 16px;
+  border: 2px solid rgba(102, 102, 102, 0.08);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 24px 1px;
+  width: 370px;
+  box-sizing: border-box;
+}
+.travelpage .img5{
+  border-radius: 16px;
+  background: url('../puplic/Image\ \(10\).jpg') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 369px;
+  height: 327px;
+}
+.travelpage .london-uk{
+  margin-right: 16px;
+  width: 164px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #222222;
+}
+.travelpage .k-1{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.333;
+  color: var(--primary-o, #FA7436);
+}
+.travelpage .upper5{
+  margin: 0 25.8px 16px 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 319px;
+  box-sizing: border-box;
+}
+.travelpage .vec29{
+  width: 18.8px;
+  height: 16px;
+}
+.travelpage .navi1{
+  margin: 3.9px 18px 4.1px 0;
+  display: flex;
+  width: 18.8px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.travelpage .days1{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--paragraph, #666666);
+}
+.travelpage .content21{
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .star15{
+  border-radius: 10px;
+  background: url('../puplic/star\ 1.jpg') 50% / cover no-repeat;
+  margin: 4px 9.4px 4px 0;
+  width: 16px;
+  height: 16px;
+}
+.travelpage .containe13{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--paragraph, #666666);
+}
+.travelpage .content22{
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .footer4{
+  margin: 0 24.4px 0 26px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 319px;
+  box-sizing: border-box;
+}
+.travelpage .card21{
+  box-shadow: 0px 16px 80px 0px rgba(254, 147, 94, 0.2);
+  border-radius: 16px;
+  background: #FEFCFB;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 24px 1px;
+  width: 370px;
+  box-sizing: border-box;
+}
+.travelpage .imge6{
+  border-radius: 16px;
+  background: url('../puplic/Image\ \(11\).jpg') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 369px;
+  height: 327px;
+}
+.travelpage .osaka-japan{
+  margin-right: 16px;
+  width: 164px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #222222;
+}
+.travelpage .k-2{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.333;
+  color: var(--primary-o, #FA7436);
+}
+.travelpage .upper6{
+  margin: 0 24.1px 16px 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 320px;
+  box-sizing: border-box;
+}
+.travelpage .vec30{
+  width: 18.8px;
+  height: 16px;
+}
+.travelpage .navi2{
+  margin: 3.9px 18px 4.1px 0;
+  display: flex;
+  width: 18.8px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.travelpage .days2{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--paragraph, #666666);
+}
+.travelpage .content23{
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .star16{
+  border-radius: 10px;
+  background: url('../puplic/star\ 1.jpg') 50% cover no-repeat;
+  margin: 4px 8.2px 4px 0;
+  width: 16px;
+  height: 16px;
+}
+.travelpage .containe14{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--paragraph, #666666);
+}
+.travelpage .content24{
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .footer5{
+  margin: 0 24.2px 0 27.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 317.3px;
+  box-sizing: border-box;
+}
+.travelpage .card31{
+  border-radius: 16px;
+  border: 2px solid rgba(102, 102, 102, 0.08);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 24px 1px;
+  width: 370px;
+  box-sizing: border-box;
+}
+.travelpage .contai3{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  width: 1170px;
+  box-sizing: border-box;
+}
+.travelpage .vacation{
+  background: #FEFCFB;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 120px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.travelpage .vec31{
+  position: absolute;
+  top: 29px;
+  right: 440.4px;
+  width: 31.6px;
+  height: 28.3px;
+}
+.travelpage .ele2{
+  position: absolute;
+  top: 56px;
+  right: 319.4px;
+  width: 168.6px;
+  height: 188.1px;
+}
+.travelpage .heading{
+  margin-bottom: 4px;
+  overflow-wrap: break-word;
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.125;
+  text-transform: lowercase;
+  color: var(--primary-b, #222222);
+}
+.heading-sub1{
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.333;
+  text-transform: lowercase;
+}
+.heading {
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.333;
+  text-transform: lowercase;
+  color: var(--primary-o, #FA7436);
+}
+.travelpage .ourclient{
+  margin: 0 22.8px 32px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 2;
+  color: var(--paragraph, #666666);
+}
+.travelpage .arrow-35{
+  background: rgba(153, 153, 153, 0.5);
+  width: 16px;
+  height: 0px;
+}
+.travelpage .btn5{
+  border-radius: 20px;
+  background: #FEFCFB;
+  position: relative;
+  margin-right: 32px;
+  display: flex;
+  padding: 20px 12px 18px 12px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.travelpage .arrow-34{
+  background: var(--primary-o, #FFFFFF);
+  width: 16px;
+  height: 0px;
+}
+.travelpage .btn6{
+  border-radius: 20px;
+  background: #FA7436;
+  position: relative;
+  display: flex;
+  padding: 20px 12px 18px 12px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.travelpage .slider-btn-2{
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 112px;
+  box-sizing: border-box;
+}
+.travelpage .content25{
+  margin: 0 195px 88px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .onthewindow{
+  margin-bottom: 44px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Open Sans';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 2;
+  color: #4E4E73;
+}
+.travelpage .chris-thomas{
+  opacity: 0.5;
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 18px;
+  color: var(--primary-b, #222222);
+}
+.travelpage .ceo-of-red-button{
+  opacity: 0.5;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--paragraph, #666666);
+}
+.travelpage .client2{
+  box-shadow: 0px 10px 30px 0px rgba(34, 34, 34, 0.35);
+  border-radius: 10px;
+  border: 2px solid rgba(102, 102, 102, 0.08);
+  position: relative;
+  margin-top: 124px;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 0 22px 34px;
+  width: 502px;
+  box-sizing: border-box;
+}
+.travelpage .contain1{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .testimonail{
+  margin-bottom: 34px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--content-16-x-font-family, 'Poppins');
+  font-weight: var(--content-16-x-font-weight, 500);
+  font-size: var(--content-16-x-font-size, 16px);
+  line-height: var(--content-16-x-line-height, 2);
+  color: var(--color-b-1, #444444);
+}
+.travelpage .mike-taylor{
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 18px;
+  color: var(--primary-b, #222222);
+}
+.travelpage .lahore-pakistan{
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--paragraph, #666666);
+}
+.travelpage .containe15{
+  box-shadow: 0px 100px 80px 0px rgba(0, 0, 0, 0.02), 0px 64.8px 46.9px 0px rgba(0, 0, 0, 0.015), 0px 38.5px 25.5px 0px rgba(0, 0, 0, 0.012), 0px 20px 13px 0px rgba(0, 0, 0, 0.01), 0px 8.1px 6.5px 0px rgba(0, 0, 0, 0.008), 0px 1.9px 3.1px 0px rgba(0, 0, 0, 0.005);
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 28px 0 34px 34px;
+  box-sizing: border-box;
+}
+.travelpage .img7{
+  border-radius: 34px;
+  background: url('../puplic/Image\ \(14\).jpg') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 68px;
+  height: 68px;
+}
+.travelpage .client1{
+  position: absolute;
+  top: 120px;
+  right: 489px;
+  padding-left: 37px;
+  height: 279px;
+  box-sizing: border-box;
+}
+.travelpage .comtai6{
+  background: #F7F8FC;
+  position: relative;
+  display: flex;
+  padding: 120px 65px 120px 0;
+  width: 1920px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .people{
+  position: relative;
+  display: flex;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.travelpage .getupdate{
+  margin: 0 5.1px 54px 0;
+  overflow-wrap: break-word;
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.125;
+  color: #000000;
+}
+.getupdate{
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 1.333;
+  color: #FA7436;
+}
+.travelpage .img8{
+  border-radius: 8px;
+  background: url('../puplic/Image\ \(15\).jpg') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 270px;
+  height: 270px;
+}
+.travelpage .theamazing{
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--primary-b, #222222);
+}
+.travelpage .july{
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #999999;
+}
+.travelpage .content26{
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .card12{
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .img9{
+  border-radius: 8px;
+  background: url('../puplic/Image\ \(16\).jpg') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 270px;
+  height: 270px;
+}
+.travelpage .travel{
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--primary-b, #222222);
+}
+.travelpage .july271{
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #999999;
+}
+.travelpage .content27{
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .card22{
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .img10{
+  border-radius: 8px;
+  background: url('../puplic/Image\ \(17\).jpg') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 270px;
+  height: 270px;
+}
+.travelpage .howto{
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--primary-b, #222222);
+}
+.travelpage .july272{
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #999999;
+}
+.travelpage .content28{
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .card32{
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .img11{
+  border-radius: 8px;
+  background: url('../puplic/Image\ \(18\).jpg') 50% / cover no-repeat;
+  margin-bottom: 24px;
+  width: 270px;
+  height: 270px;
+}
+.travelpage .reflection{
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--primary-b, #222222);
+}
+.travelpage .july273{
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #999999;
+}
+.travelpage .content29{
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .card41{
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .contai9{
+  margin-bottom: 45px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .ellipse-32{
+  border-radius: 5px;
+  background: var(--color-off-1, #E5E5E5);
+  margin: 2px 0;
+  width: 10px;
+  height: 10px;
+}
+.travelpage .ellipse-33{
+  border-radius: 7px;
+  background: #FA7436;
+  width: 14px;
+  height: 14px;
+}
+.travelpage .ellipse-34{
+  border-radius: 5px;
+  background: var(--color-off-1, #E5E5E5);
+  margin: 2px 0;
+  width: 10px;
+  height: 10px;
+}
+.travelpage .slider-1{
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  width: 54px;
+  box-sizing: border-box;
+}
+.travelpage .blog-1{
+  background: #FEFCFB;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 120px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.travelpage .trabook1{
+  margin-right: 10.6px;
+  overflow-wrap: break-word;
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 0.1px;
+  line-height: 1;
+  color: var(--primary-b, #222222);
+}
+.travelpage .vec41{
+  margin: 3px 0 2px 0;
+  width: 19px;
+  height: 19px;
+}
+.travelpage .logo-1{
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .book{
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 2;
+  color: #666666;
+}
+.travelpage .facebook{
+  width: 5.7px;
+  height: 12.4px;
+}
+.travelpage .social-2{
+  box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 4px 26px 4px 0;
+  display: flex;
+  padding: 15.6px 17.1px 12px 17.1px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.travelpage .grup1{
+  width: 17.1px;
+  height: 17.1px;
+}
+.travelpage .insta{
+  display: flex;
+  width: 17.1px;
+  height: 17.1px;
+  box-sizing: border-box;
+}
+.travelpage .social-3{
+  box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 24px;
+  background: #FA7436;
+  position: relative;
+  margin-right: 22px;
+  display: flex;
+  padding: 14.9px 14.9px 16px 16px;
+  width: 48px;
+  height: 48px;
+  box-sizing: border-box;
+}
+.travelpage .vec37{
+  width: 15.6px;
+  height: 12.7px;
+}
+.travelpage .social-1{
+  box-shadow: 0px 2px 10px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 4px 0;
+  display: flex;
+  padding: 13.7px 12.7px 13.7px 11.7px;
+  width: 40px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.travelpage .social{
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: 176px;
+  box-sizing: border-box;
+}
+.travelpage .content30{
+  margin-bottom: 34px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .company-1{
+  margin-bottom: 32px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--primary-b, #222222);
+}
+.travelpage .about-1{
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--paragraph, #666666);
+}
+.travelpage .careers{
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--paragraph, #666666);
+}
+.travelpage .logistic{
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--paragraph, #666666);
+}
+.travelpage .privacy-policy{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--paragraph, #666666);
+}
+.travelpage .company{
+  margin-right: 130.3px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .contact-1{
+  margin: 0 10px 32px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--primary-b, #222222);
+}
+.travelpage .help-faq{
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--paragraph, #666666);
+}
+.travelpage .press{
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--paragraph, #666666);
+}
+.travelpage .affilates{
+  margin-right: 12.1px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--paragraph, #666666);
+}
+.travelpage .contace{
+  margin: 0 130.8px 42px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .more-1{
+  margin-bottom: 32px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 21px;
+  line-height: 1.245;
+  color: var(--primary-b, #222222);
+}
+.travelpage .press-1{
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--paragraph, #666666);
+}
+.travelpage .our{
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--paragraph, #666666);
+}
+.travelpage .low{
+  margin-right: 0.7px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.444;
+  color: var(--paragraph, #666666);
+}
+.travelpage .more{
+  margin-bottom: 42px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.travelpage .content31{
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .contain4{
+  margin: 0 3.1px 40px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1168.9px;
+  box-sizing: border-box;
+}
+.travelpage .border{
+  background: rgba(153, 153, 153, 0.56);
+  margin: 0 0 39px 2px;
+  width: 1170px;
+  height: 0px;
+}
+.travelpage .copyright{
+  opacity: 0.8;
+  margin-right: 12px;
+  width: 347px;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--paragraph, #666666);
+}
+.travelpage .terms{
+  opacity: 0.8;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--paragraph, #666666);
+}
+.travelpage .content32{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1172px;
+  box-sizing: border-box;
+}
+.travelpage .contai10{
+  background: #F7F8FC;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 326px 0 48px 0;
+  width: 1920px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .group42{
+  position: absolute;
+  left: -0.2px;
+  top: 0px;
+  width: 389.4px;
+  height: 397.2px;
+}
+.travelpage .ele3{
+  position: absolute;
+  left: 3px;
+  bottom: 0px;
+  width: 361px;
+  height: 480px;
+}
+.travelpage .susscribeget{
+  margin: 0 10.7px 64px 14.7px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Volkhov';
+  font-weight: 700;
+  font-size: 48px;
+  color: #FFFFFF;
+}
+.travelpage .vec5{
+  border-radius: 1px;
+  position: relative;
+  width: 10.7px;
+  height: 4px;
+}
+.travelpage .rec22{
+  border-radius: 5px;
+  border: 1px solid var(--color-off, #999999);
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 18.7px;
+  height: 16px;
+}
+.travelpage .group46{
+  position: relative;
+  margin: 4px 8px 4px 0;
+  display: flex;
+  padding: 5.3px 4.4px 6.7px 3.6px;
+  width: 18.7px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.travelpage .enter{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--color-off, #999999);
+}
+.travelpage .mail{
+  margin: 13px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .subscribe-2{
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.travelpage .subscribe-btn{
+  border-radius: 8px;
+  background: var(--primary-o, #FA7436);
+  display: flex;
+  padding: 13px 0.8px 13px 0;
+  width: 132px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.travelpage .subscribe-1{
+  border-radius: 10px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 9px 9px 22px;
+  width: 674px;
+  box-sizing: border-box;
+}
+.travelpage .content33{
+  margin: 71px 95px 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.travelpage .ele4{
+  margin-bottom: 213.9px;
+  width: 112.2px;
+  height: 113.1px;
+}
+.travelpage .contai12{
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.travelpage .subscribe{
+  border-radius: 16px;
+  background: #FA7436;
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  display: flex;
+  padding: 9px 0 80px 0;
+  width: 1170.2px;
+  box-sizing: border-box;
+}
+.travelpage .footer-1{
+  position: relative;
+  display: flex;
+  padding-top: 210px;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.travelpage{
+  background: #FEFCFB;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1920px;
+  box-sizing: border-box;
+}
